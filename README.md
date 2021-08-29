@@ -1,4 +1,4 @@
 # Festival-Special-
 Special projects for special and precious occasions in a programmer's style.
-<h6>===================================================================================================================================================================================</h6>
-<img src="independence project.png"></img>
+<hr>
+<img src="independence project.png" style="width:20px"; height:"20px"></img>
